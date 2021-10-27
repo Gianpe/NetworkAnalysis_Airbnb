@@ -8,4 +8,4 @@ Moreover, we would like to capture the so called "sockpuppet" phenomenon, that i
 account to deceive the restrictions given in the platform. All
 the notebooks are stored in github repositories.
 
-![](postman1.jpeg)
+
